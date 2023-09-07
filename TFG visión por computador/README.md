@@ -1,0 +1,1 @@
+Se trata mi proyecto fin de carrera. La objetivo principal consistía en la identificación de códigos de barras a partir de imágenes de estanterías de algún comercio. Para ello se emplearon técnicas de visión por computador haciendo uso de la librería OpenCV.

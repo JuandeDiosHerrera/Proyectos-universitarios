@@ -1,0 +1,1 @@
+Uso de cinta para transportar pieza y recogida con el brazo robótico para quitarla de la cinta y colocarla en su ubicación correspondiente. Enlace a vídeo demostrativo: https://drive.google.com/file/d/1ACvBF4cqHokEwg56NFYZv7vNUMvjQEO1/view?usp=sharing

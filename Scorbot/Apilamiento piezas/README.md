@@ -1,1 +1,1 @@
-Proyecto realizado utilizando un brazo robótico Scorbot. Consiste en recoger tres piezas de madera ubicadas en diferentes posiciones, apilarlas todas en una misma ubicación y finalmente, devolver cada pieza a su posición origen.
+Proyecto realizado utilizando un brazo robótico Scorbot. Consiste en recoger tres piezas de madera ubicadas en diferentes posiciones, apilarlas todas en una misma ubicación y finalmente, devolver cada pieza a su posición origen. Enlace al vídeo demostrativo: https://drive.google.com/file/d/172CKUtJnhpZ71q8J0cVdzfqQgQKCXG9a/view?usp=sharing

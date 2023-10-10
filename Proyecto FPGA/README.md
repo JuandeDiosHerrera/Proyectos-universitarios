@@ -1,1 +1,2 @@
-Proyecto con FPGA programada como procesador https://github.com/stnolting/neorv32, servomotor y un sensor infrarrojo.
+- Proyecto con FPGA programada como procesador https://github.com/stnolting/neorv32, servomotor y un sensor infrarrojo: https://drive.google.com/file/d/1JAjjeFQCuICh_lfn-frCGHl7-CxR8BVT/view?usp=sharing
+- Proyecto con FPGA programada como procesador https://github.com/stnolting/neorv32 y teclado: https://drive.google.com/file/d/1JbjlpkyM1MmYBol5pyYUbBz_Md9pZH8J/view?usp=sharing

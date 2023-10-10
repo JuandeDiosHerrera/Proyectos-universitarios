@@ -1,0 +1,2 @@
+- Práctica utilizando placa con microcontrolador, pantalla táctil y sensor de presión, temperatura y humedad: https://drive.google.com/file/d/1a6jALs4hQosKm-FqxqPXuREZMFEyDg4R/view?usp=sharing
+- Práctica emulando máquina vending con servomotor: https://drive.google.com/file/d/1l8Zx86iuY7xCrV9Gs_HXLmFsoCczhBNc/view?usp=sharing

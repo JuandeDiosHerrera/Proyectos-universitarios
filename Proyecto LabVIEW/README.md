@@ -1,1 +1,4 @@
-
+- Microcontrolador 1: lectura del sensor de luz cuyo valor se envía por el puerto serie al servidor TCP.
+- Servidor: lee el valor de la iluminación y se lo envía al cliente mediante conexión TCP/IP.
+- Cliente: recibe la luminosidad y calcula la acción de control según dicho valor y la referencia establecida mediante un control PID.
+- Microcontrolador 2: a partir de la señal de control recibida por el puerto serie, calcula el valor PWM que corresponde con la intensidad del led y aplica ese valor al led.
